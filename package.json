@@ -6,7 +6,7 @@
   "author": "Ian G <yo.ian.g@gmail.com>",
   "license": "Apache-2.0",
   "peerDependencies": {
-    "node-red-dashboard": "2.14.x"
+    "node-red-dashboard": "2.x"
   },
   "keywords": [
     "node-red",
